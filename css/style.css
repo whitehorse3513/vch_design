@@ -73,7 +73,7 @@ video {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  height: 250px;
+  height: 300px;
 }
 
 .select {
